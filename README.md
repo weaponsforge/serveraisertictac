@@ -2,7 +2,8 @@
 
 
 > [!IMPORTANT]
-> This repository a migration of an old code repository, re-uploaded for reference and hierarchical tracking. It may not work with the latest Meta (Facebook) Instant Games guidelines. It came from an extension repository created in **2018**.
+> This repository is a migration of an old code repository, re-uploaded for reference and hierarchical tracking. It may not work with the latest Meta (Facebook) Instant Games guidelines. It came from an extension repository created in **2018**.
+>
 > @weaponsforge<br>
 > 20250104
 
